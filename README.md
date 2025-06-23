@@ -1,5 +1,5 @@
-# Retail_analysis
-  📊 Retail Sales SQL Analytics Project
+# Retail_analysis SQL Analytics Project
+  
 📌 Overview
 This project demonstrates the use of advanced SQL to analyze a relational retail database containing four main tables: customers, orders, order_items, and products. The goal is to extract actionable business insights such as top-selling products, customer behavior, reorder patterns, revenue trends, and more.
 
